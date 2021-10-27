@@ -8,7 +8,7 @@ const Helloworld = () => {
       <img className="app__logo" src={logo} alt="logo" />
       <h1>React App</h1>
       <p>
-        Start Editing <code>./src/App.js</code> to reaload
+        Start Editing <code>./src/App.js</code> to reload
       </p>
     </div>
   );
